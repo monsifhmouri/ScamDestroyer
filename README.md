@@ -1,6 +1,6 @@
 # MØNSTR-M1ND Reverse Toolkit
 
-Advanced honeypot + RAT framework for security research.
+Advanced honeypot + RAT framework for security research
 
 ## Files
 
@@ -31,14 +31,14 @@ python monstr_m1nd_reverse.py
 
 ## Features
 
-- AES-256 encrypted C2 communication
-- Multi-platform persistence (Registry/Startup/Systemd/Cron)
-- Anti-VM detection
-- Keylogger + screenshot capture
-- File upload/download
-- Auto IP geolocation + abuse checking
-- Screen recording + bait generation
-- Stealth console hiding
+AES-256 encrypted C2 communication
+Multi-platform persistence (Registry/Startup/Systemd/Cron)
+Anti-VM detection
+Keylogger + screenshot capture
+File upload/download
+Auto IP geolocation + abuse checking
+Screen recording + bait generation
+Stealth console hiding
 
 ## Contact
 
