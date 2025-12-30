@@ -2,6 +2,8 @@
 
 Advanced honeypot + RAT framework for security research
 
+Anyone who wants to develop it themselves the source is open Take the code and modify it as you wish Kolchi dyalk
+
 ## Files
 
 **monstr_m1nd_reverse.py**  
